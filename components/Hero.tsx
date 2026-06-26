@@ -3,10 +3,10 @@ import Link from "next/link";
 
 const navLinks = [
   { label: "Home", href: "#", active: false },
-  { label: "Experiences", href: "#experiences", active: true },
-  { label: "About Poson", href: "#about", active: false },
-  { label: "Gallery", href: "#gallery", active: false },
-  { label: "Contact", href: "#contact", active: false },
+  { label: "Experiences", href: "#experiences" },
+  // { label: "About Poson", href: "#about", active: false },
+  // { label: "Gallery", href: "#gallery", active: false },
+  // { label: "Contact", href: "#contact", active: false },
 ];
 
 function StupaLogo() {
